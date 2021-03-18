@@ -53,6 +53,7 @@ Para que esse teste passe, o produto do carrinho deve ser removido ao clicar no 
 #### Teste Header.spec.tsx
 
 - **should be able to render the amount of products added to cart** <br />
+
 Para que esse teste passe, deve ser possível mostrar em tela a quantidade de produtos **distintos** adicionados ao carrinho. Ou seja, se o carrinho possuir 4 unidades do item A e 1 unidade do item B, o valor a ser mostrado é `2 itens`.
 
 ## :clapper: Execução
